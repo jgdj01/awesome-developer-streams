@@ -668,7 +668,6 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/codigofalado)
 - [YouTube](https://www.youtube.com/channel/UCtwkSRuugeCF1Bh8kxE55qQ)
-- [Twitter](https://twitter.com/codigofalado)
 
 #### Links:
 - [Twitter](https://twitter.com/codigofalado)
